@@ -41,4 +41,4 @@ Identification de l'hôpital pilote le plus pertinent pour déployer une solutio
 
 **Fatou** — Étudiante en Bachelor Sciences & Ingénierie des Systèmes Numériques Santé (Île-de-France)
 
-🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/TON-PROFIL-ICI)
+🔗 [Mon profil LinkedIn](linkedin.com/in/ndeyefatoudiou)
